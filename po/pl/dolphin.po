@@ -847,7 +847,7 @@ msgid ""
 msgstr ""
 "To wycofuje ostatnią zmianę dokonaną na plikach i katalogach.<nl/>Takie "
 "zmiany uwzględniają <interface>tworzenie</interface>, "
-"<interface>przemianowywanie</interface> oraz <interface>przenoszenie</"
+"<interface>zmiana nazwy</interface> oraz <interface>przenoszenie</"
 "interface> ich do innych miejsc lub do <filename>Kosza</filename>. <nl/"
 ">Przed wykonaniem zmian, których nie będzie można cofnąć, najpierw zostanie "
 "wyświetlona prośba o potwierdzenie."
@@ -1266,7 +1266,7 @@ msgctxt "@info"
 msgid ""
 "Cannot rename: You do not have permission to rename items in this folder."
 msgstr ""
-"Nie można przemianować: Nie masz uprawnień do przemianowywania rzeczy w tym "
+"Nie można zmienić nazwy: Nie masz uprawnień do zmiany nazwy rzeczy w tym "
 "katalogu."
 
 #: dolphinmainwindow.cpp:2494 dolphinmainwindow.cpp:2511
@@ -3030,7 +3030,7 @@ msgstr "Skopiuj"
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Rename…"
-msgstr "Przemianuj…"
+msgstr "Zmień nazwę…"
 
 #: panels/folders/treeviewcontextmenu.cpp:83
 #, kde-format
@@ -4117,7 +4117,7 @@ msgid ""
 msgstr ""
 "Wewnętrzna wersja ustawień Dolphina, używana głównie do tego, aby "
 "stwierdzić, czy została uruchomiona uaktualniona wersja Dolphina tak, aby "
-"dostosowaćwpisy ustawień, które zostały usunięte/przemianowane itp."
+"dostosować wpisy ustawień, które zostały usunięte/ich nazwa została zmieniona itp."
 
 #. i18n: ectx: label, entry (ModifiedStartupSettings), group (General)
 #: settings/dolphin_generalsettings.kcfg:49
